@@ -30,10 +30,10 @@ Single target, custom ports:
 
 ## Future Improvements
 
-□ Multithreading for faster scanning
-□ Banner grabbing (extract service versions)
-□ Output to file (CSV/JSON)
-□ More CLI options using argparse
+-Multithreading for faster scanning
+-Banner grabbing (extract service versions)
+-Output to file (CSV/JSON)
+-More CLI options using argparse
 
 ## Author 
 Shreyas Shahi
